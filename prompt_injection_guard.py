@@ -1,4 +1,3 @@
-prompt_injection_guard.py
 # { "Depends": "py-genlayer:test" }
 
 from genlayer import *
